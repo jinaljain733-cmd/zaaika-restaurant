@@ -56,15 +56,6 @@ open index.html
 
 ---
 
-## Deploy to GitHub Pages
-
-1. Push this repo to GitHub
-2. Go to **Settings → Pages**
-3. Set source to `main` branch, `/ (root)`
-4. Click **Save** — live in ~1 minute
-
----
-
 ## License
 
 MIT © [jinaljain733-cmd](https://github.com/jinaljain733-cmd)
