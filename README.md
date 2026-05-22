@@ -18,13 +18,6 @@ A fully responsive, dark-themed fine Indian dining restaurant website built with
 
 ---
 
-## 📸 Preview
-
-> Add a screenshot here after deploying
-> `![Preview](preview.png)`
-
----
-
 ## ✨ Features
 
 - Fixed frosted-glass navbar with mobile hamburger menu
@@ -68,17 +61,6 @@ A fully responsive, dark-themed fine Indian dining restaurant website built with
 - `-webkit-appearance: none` — cross-browser form styling
 - `position: fixed` navbar + hamburger menu
 - 4 responsive breakpoints: `1024px`, `860px`, `700px`, `440px`
-
----
-
-## 🍽️ Menu Sections
-
-| Tab | Dishes |
-|---|---|
-| Starters | Galouti Kebab, Paneer Tikka, Amritsari Machhi, Seekh Kebab + more |
-| Mains | Rogan Josh, Butter Chicken, Kerala Fish Curry, Dal Bukhara + more |
-| Breads | Naan, Lachha Paratha, Rumali Roti, Parotta + more |
-| Desserts | Rasmalai, Kulfi Falooda, Gulab Jamun, Gajar Halwa + more |
 
 ---
 
